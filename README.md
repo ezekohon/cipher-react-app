@@ -9,3 +9,5 @@ Usos:
 +  react-router
 +  react-bootstrap
 +  firebase
+
+Deploy en now: https://build-zmalrhkevl.now.sh/
